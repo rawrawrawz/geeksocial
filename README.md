@@ -1,5 +1,5 @@
 
-<h1>
+<h1 align="center">
 GeekSocial
 </h1>
 
@@ -25,9 +25,9 @@ GeekSocial
 
 <h2> Funcionalidades </h2>
 <ul>
-<li>Login.</li>
+<li>Login</li>
 <li>Cadastro</li>
 <li>Curtidas</li>
 <li>Remover publicação</li>
-<li>Adicionar Publicação</li>
+<li>Adicionar publicação</li>
 </ul> 
