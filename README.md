@@ -1,5 +1,3 @@
-# geeksocial
-Projeto Desenvolvimento Mobile
 
 <h1>
 GeekSocial
